@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [STM32_BluePill.PrjPcb]
+   Generated File[PCB_Copper_Signal_Top.gbr]
+   Generated File[PCB_Copper_Signal_Bot.gbr]
+   Generated File[PCB_Pads_Bot.gbr]
+   Generated File[PCB_Pads_Top.gbr]
+   Generated File[PCB_Legend_Bot.gbr]
+   Generated File[PCB_Soldermask_Bot.gbr]
+   Generated File[PCB_Paste_Bot.gbr]
+   Generated File[PCB_Legend_Top.gbr]
+   Generated File[PCB_Paste_Top.gbr]
+   Generated File[PCB_Soldermask_Top.gbr]
+   Generated File[PCB_Mechanical_2.gbr]
+   Generated File[PCB_Mechanical_1.gbr]
+   Generated File[PCB_Mechanical_3.gbr]
+   Generated File[PCB_Profile.gbr]
+   Generated File[PCB.RUL]
+   Generated File[PCB.EXTREP]
+   Generated File[PCB.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 20:13:45 On 31-01-2023

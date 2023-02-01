@@ -1,6 +1,6 @@
 # STM32 BluePill
 
-**Prezence V.1.0** is a RFID door lock access control system based on ESP32 module and RC522 RFID sensor
+<!-- **Prezence V.1.0** is a RFID door lock access control system based on ESP32 module and RC522 RFID sensor -->
 
 ### 3D Model of PCB
 
@@ -11,6 +11,8 @@
 - _3D_Files:_
   - 3D_PDF_Model.pdf - A 3D model of the PCB (can be viewed using Adobe Acrobat)
   - 3D_Step_File.step - Step file of the PCB
+- _Board_Assembly:_ Pick and Place file and BOM (LCSC Part # column in BOM must be filled with Part #, JLCPCB Part # if using JLCPCB for manufacturing)
+- _Image:_ 3D image of PCB
 - _PCB_Manufacturing:_ Gerber output and NC Drill files
 - _Schematic:_ The PDF contains Schematic, PCB view and BOM.
 

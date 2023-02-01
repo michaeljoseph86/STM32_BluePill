@@ -4,7 +4,7 @@
 
 ### 3D Model of PCB
 
-![Tux, the Linux mascot](https://imgur.com/JVlGFSd)
+![Tux, the Linux mascot](https://i.imgur.com/JVlGFSd.png)
 
 ### Current repository folder structure:
 

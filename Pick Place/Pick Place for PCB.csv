@@ -1,49 +1,49 @@
-Altium Designer Pick and Place Locations
-C:\Users\michael\Desktop\Hardware_Pojects\Altium_Projects\STM32_BluePill_completed\2_Altium_Files\STM32_BluePill\Project Outputs for STM32_BluePill\Pick Place\Pick Place for PCB.csv
-
-========================================================================================================================
-File Design Information:
-
-Date:       03-02-23
-Time:       00:56
-Revision:   Not in VersionControl
-Variant:    No variations
-Units used: mm
-
-"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"JP3","01x20 Header","TopLayer","01X20_HEADER","52.0700","28.5496","270",""
-"JP2","01x20 Header","TopLayer","01X20_HEADER","52.0700","45.0596","270",""
-"C7","104,0603","BottomLayer","CAPACITOR,0603","73.4060","31.2420","0","1uF"
-"Y2","32.768KHz","TopLayer","32.768KHZ_CRYSTAL","60.4908","39.8780","0","Crystal"
-"Y1","8MHz","TopLayer","8MHz_Crystal","65.4050","34.2900","180","Crystal"
-"U3","Micro USB","TopLayer","MICRO_USB","27.9450","36.7600","270","Integrated Circuit"
-"U2","RT9193-33","BottomLayer","RT9193-33","60.9092","39.3446","0","Micro USB 10118192-0001LF"
-"U1","STM32F103C8T6TR","TopLayer","STM32","49.5300","36.8300","225","Linear Voltage Regulator"
-"SW1","Tactile Switch","TopLayer","SMD_Tactile_Switch,_3x6x2.5mm","36.8300","33.8836","180","SMD Tactile Switch, 3x6x2.5mm model-4388"
-"R9","1M,0603","BottomLayer","Resistor,0603","61.6966","34.1122","90","1M Ohm"
-"R8","20R.0603","BottomLayer","Resistor,0603","30.9372","35.8648","0","510 Ohm"
-"R7","4.7K,0603","BottomLayer","Resistor,0603","30.9118","34.0360","180","510 Ohm"
-"R6","20R.0603","BottomLayer","Resistor,0603","30.9118","38.3286","180","100K Ohm"
-"R5","510R,0603","TopLayer","Resistor,0603","62.9920","40.3860","90","100K Ohm"
-"R4","100k,0603","BottomLayer","Resistor,0603","44.1960","38.1000","270","100K Ohm"
-"R3","100k,0603","BottomLayer","Resistor,0603","42.1640","38.1000","90","4.7K Ohm"
-"R2","10K,0603","BottomLayer","Resistor,0603","48.2092","39.3446","270","20 Ohm"
-"R1","510R,0603","TopLayer","Resistor,0603","70.6120","40.3860","90","20 Ohm"
-"JP4","01x04 Header","TopLayer","01x04_Header","76.2000","36.8300","0",""
-"JP1","03X02 Header","TopLayer","03X02_HEADER","36.8300","39.3700","90",""
-"D2","LED,0603","TopLayer","LED,0603","65.5320","40.3860","270",""
-"D1","LED,0603","TopLayer","LED,0603","68.0720","40.3740","270",""
-"C15","20pF,0603","BottomLayer","CAPACITOR,0603","69.8246","34.1122","90","20pF"
-"C14","20pF,0603","BottomLayer","CAPACITOR,0603","65.7606","34.1122","90","20pF"
-"C13","20pF,0603","BottomLayer","CAPACITOR,0603","67.7926","34.1122","90","20pF"
-"C12","20pF,0603","BottomLayer","CAPACITOR,0603","63.7286","34.1122","90","20pF"
-"C11","104,0603","BottomLayer","CAPACITOR,0603","59.4106","34.1122","90","0.1uF"
-"C10","104,0603","BottomLayer","CAPACITOR,0603","57.3786","34.1122","90","0.1uF"
-"C9","104,0603","BottomLayer","CAPACITOR,0603","55.3466","34.1122","90","0.1uF"
-"C8","104,0603","BottomLayer","CAPACITOR,0603","53.3146","34.1122","90","0.1uF"
-"C6","104,0603","BottomLayer","CAPACITOR,0603","67.0052","39.3446","270","0.1uF"
-"C5","106,0805","BottomLayer","Capacitor,0805","64.7192","39.3446","270","0.1uF"
-"C4","223,0603","BottomLayer","CAPACITOR,0603","52.7812","39.3446","90","10uF"
-"C3","104,0603","BottomLayer","CAPACITOR,0603","54.8132","39.3446","270","22nF"
-"C2","105,0805","BottomLayer","Capacitor,0805","57.0992","39.3446","270","0.1uF"
-"C1","105,0805","BottomLayer","Capacitor,0805","50.4952","39.3446","90","1uF"
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\michael\Desktop\Hardware_Pojects\Altium_Projects\STM32_BluePill_completed\2_Altium_Files\STM32_BluePill\Project Outputs for STM32_BluePill\Pick Place\Pick Place for PCB.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       03-02-23,,,,,,,
+Time:       00:56,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Mid X,Mid Y,Rotation,Description
+JP3,01x20 Header,Top,01X20_HEADER,52.07,28.5496,270,
+JP2,01x20 Header,Top,01X20_HEADER,52.07,45.0596,270,
+C7,"10,40,603",Bottom,"CAPACITOR,0603",73.406,31.242,0,1uF
+Y2,32.768KHz,Top,32.768KHZ_CRYSTAL,60.4908,39.878,0,Crystal
+Y1,8MHz,Top,8MHz_Crystal,65.405,34.29,180,Crystal
+U3,Micro USB,Top,MICRO_USB,27.945,36.76,270,Integrated Circuit
+U2,RT9193-33,Bottom,RT9193-33,60.9092,39.3446,0,Micro USB 10118192-0001LF
+U1,STM32F103C8T6TR,Top,STM32,49.53,36.83,225,Linear Voltage Regulator
+SW1,Tactile Switch,Top,"SMD_Tactile_Switch,_3x6x2.5mm",36.83,33.8836,180,"SMD Tactile Switch, 3x6x2.5mm model-4388"
+R9,"1M,0603",Bottom,"Resistor,0603",61.6966,34.1122,90,1M Ohm
+R8,20R.0603,Bottom,"Resistor,0603",30.9372,35.8648,0,510 Ohm
+R7,"4.7K,0603",Bottom,"Resistor,0603",30.9118,34.036,180,510 Ohm
+R6,20R.0603,Bottom,"Resistor,0603",30.9118,38.3286,180,100K Ohm
+R5,"510R,0603",Top,"Resistor,0603",62.992,40.386,90,100K Ohm
+R4,"100k,0603",Bottom,"Resistor,0603",44.196,38.1,270,100K Ohm
+R3,"100k,0603",Bottom,"Resistor,0603",42.164,38.1,90,4.7K Ohm
+R2,"10K,0603",Bottom,"Resistor,0603",48.2092,39.3446,270,20 Ohm
+R1,"510R,0603",Top,"Resistor,0603",70.612,40.386,90,20 Ohm
+JP4,01x04 Header,Top,01x04_Header,76.2,36.83,0,
+JP1,03X02 Header,Top,03X02_HEADER,36.83,39.37,90,
+D2,"LED,0603",Top,"LED,0603",65.532,40.386,270,
+D1,"LED,0603",Top,"LED,0603",68.072,40.374,270,
+C15,"20pF,0603",Bottom,"CAPACITOR,0603",69.8246,34.1122,90,20pF
+C14,"20pF,0603",Bottom,"CAPACITOR,0603",65.7606,34.1122,90,20pF
+C13,"20pF,0603",Bottom,"CAPACITOR,0603",67.7926,34.1122,90,20pF
+C12,"20pF,0603",Bottom,"CAPACITOR,0603",63.7286,34.1122,90,20pF
+C11,"10,40,603",Bottom,"CAPACITOR,0603",59.4106,34.1122,90,0.1uF
+C10,"10,40,603",Bottom,"CAPACITOR,0603",57.3786,34.1122,90,0.1uF
+C9,"10,40,603",Bottom,"CAPACITOR,0603",55.3466,34.1122,90,0.1uF
+C8,"10,40,603",Bottom,"CAPACITOR,0603",53.3146,34.1122,90,0.1uF
+C6,"10,40,603",Bottom,"CAPACITOR,0603",67.0052,39.3446,270,0.1uF
+C5,"10,60,805",Bottom,"Capacitor,0805",64.7192,39.3446,270,0.1uF
+C4,"22,30,603",Bottom,"CAPACITOR,0603",52.7812,39.3446,90,10uF
+C3,"10,40,603",Bottom,"CAPACITOR,0603",54.8132,39.3446,270,22nF
+C2,"10,50,805",Bottom,"Capacitor,0805",57.0992,39.3446,270,0.1uF
+C1,"10,50,805",Bottom,"Capacitor,0805",50.4952,39.3446,90,1uF

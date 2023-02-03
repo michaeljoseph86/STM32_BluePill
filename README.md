@@ -11,7 +11,8 @@
 - _3D_Files:_ A 3D model of the PCB (can be viewed using Adobe Acrobat)
 - _Assembly Drawing_
 - _BOM_
-- _Bill of Materials_ -_GerberX2_
+- _Bill of Materials_
+- _GerberX2_
 - _Image:_ 3D image of PCB
 - _NC drill_
 - _PCB_
